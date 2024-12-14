@@ -25,12 +25,12 @@ This repository contains scripts for automating tasks such as user registration,
 - Node.js 16+
 - Dependencies installed via `npm install`
 - new mail for each account (for email verification and claim faucet bnb)
-- 1 account only can link with 1 nodeId so if you want farm it create multiple accounts.
+- 1 account can only link with 1 node Id so if you want to farm it, create multiple accounts.
 
 ## Files
 
-- this file while auto generate if you register using script
-- if you already have account you can create file manually
+- this file will auto generate if you register using script
+- if you already have an account you can create file manually
 - `token.txt`: Stores tokens in the format `access_token|refresh_token` each line 1 account.
 - got to [https://app.meshchain.ai/](https://app.meshchain.ai?ref=3NR2VSUE3KKM) and inspect to get  `access_token|refresh_token`
 - ![image](https://github.com/user-attachments/assets/9c1571ef-f80e-4b62-9b59-a21c793bf69d)
@@ -51,7 +51,7 @@ This repository contains scripts for automating tasks such as user registration,
    ```bash
    npm install
    ```
-3. Register account:
+3. Register account: You can skip this step if you already have an account
    ```bash
    npm run register
    ```
