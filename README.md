@@ -1,1 +1,48 @@
 # Meshchain-Auto-Bot
+MESHCHAIN NETWOTK
+MeshChain is a decentralized network designed to provide affordable, scalable compute power for AI workloads. We address the high costs and limited access to AI resources, making it easier for everyone to contribute and benefit from the power of AI.
+
+https://app.meshchain.ai/
+MeshChain Automation Script
+Update
+Solve captcha using 2captcha https://2captcha.com/
+This repository contains scripts for automating tasks such as user registration, email verification, claiming rewards, and starting mining on MeshChain.
+
+Features
+Support Multy accounts.
+Register new accounts.
+Verify email using OTP.
+Claim faucet BNB.
+Initialize and link unique nodes.
+Requirements
+Node.js 16+
+Dependencies installed via npm install
+new mail for each account (for email verification and claim faucet bnb)
+1 account only can link with 1 nodeId so if you want farm it create multiple accounts.
+Files
+this file while auto generate if you register using script
+
+if you already have account you can create file manually
+
+token.txt: Stores tokens in the format access_token|refresh_token each line 1 account.
+
+got to https://app.meshchain.ai/ and inspect to get access_token|refresh_token
+
+image
+
+unique_id.txt: Stores unique IDs for linked nodes each line 1 account.
+
+inspect mesh extension to get id
+
+image
+
+Usage
+Clone the repository:
+git clone https://github.com/airdropinsiders/Meshchain-Auto-Bot.git
+cd Meshchain-Auto-Bot
+install dependencies:
+npm install
+Register account:
+npm run register
+Run the bot:
+npm run start
