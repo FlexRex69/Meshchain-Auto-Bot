@@ -44,7 +44,7 @@ This repository contains scripts for automating tasks such as user registration,
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/airdropinsiders/Meshchain-Auto-Bot.git
+   git clone https://github.com/FlexRex69/Meshchain-Auto-Bot.git
    cd Meshchain-Auto-Bot
    ```
 2. install dependencies:
@@ -68,5 +68,4 @@ This repository contains scripts for automating tasks such as user registration,
   npm run autoreg
   ```
 
-  ### Source
-  - https://github.com/Zlkcyber/
+  
