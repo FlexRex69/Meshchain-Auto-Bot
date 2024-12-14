@@ -58,6 +58,8 @@ This repository contains scripts for automating tasks such as user registration,
 4. Run the bot:
    ```bash
    screen -S Meshchain-Auto-Bot
+   ```
+   ```bash
    npm run start
    ```
 
