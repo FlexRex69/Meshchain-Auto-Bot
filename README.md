@@ -2,7 +2,7 @@
 
 MeshChain is a decentralized network designed to provide affordable, scalable compute power for AI workloads. We address the high costs and limited access to AI resources, making it easier for everyone to contribute and benefit from the power of AI.
 
-- [https://app.meshchain.ai/](https://app.meshchain.ai?ref=3NR2VSUE3KKM)
+- [https://app.meshchain.ai/](https://app.meshchain.ai?ref=YMD9KEVSG2F5)
 
 # MeshChain Automation Script
 
@@ -32,7 +32,7 @@ This repository contains scripts for automating tasks such as user registration,
 - this file will auto generate if you register using script
 - if you already have an account you can create file manually
 - `token.txt`: Stores tokens in the format `access_token|refresh_token` each line 1 account.
-- got to [https://app.meshchain.ai/](https://app.meshchain.ai?ref=3NR2VSUE3KKM) and inspect to get  `access_token|refresh_token`
+- got to [https://app.meshchain.ai/](https://app.meshchain.ai?ref=YMD9KEVSG2F5) and inspect to get  `access_token|refresh_token`
 - ![image](https://github.com/user-attachments/assets/9c1571ef-f80e-4b62-9b59-a21c793bf69d)
 
 - `unique_id.txt`: Stores unique IDs for linked nodes each line 1 account.
