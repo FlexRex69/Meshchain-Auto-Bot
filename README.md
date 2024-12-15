@@ -14,7 +14,7 @@ This repository contains scripts for automating tasks such as user registration,
 
 ## Features
 
-- Support Multy accounts.
+- Support Multi accounts.
 - Register new accounts.
 - Verify email using OTP.
 - Claim faucet BNB.
